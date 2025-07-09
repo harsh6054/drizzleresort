@@ -21,5 +21,3 @@ A responsive and dynamic resort booking website built using **PHP**, **HTML**, *
 | **JavaScript** | Interactive UI components |
 | **Bootstrap** | Responsive design framework (if used) |
 
-## 📂 Project Structure
-
